@@ -1,4 +1,5 @@
 <div align='center'>
+<img src='./Artboard 1.png'>
 <h1>Mohammad Alizad</h1>
 <h2>I develop the front end of a website.</h2>
 </div>
