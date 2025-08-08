@@ -1,7 +1,7 @@
 <div align='center'>
 <img src='./Artboard 1.png'>
 <h1>Mohammad Alizad</h1>
-<h2>I develop the front end of a website now and Other jobs in programming.</h2>
+<h2>I'm developing the front end and a little back end of a website now and Other jobs in programming.</h2>
 </div>
 <h3>My Expertise: </h3>
 <img src='https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,javascript,alpinejs,vue,python,django&perline=5'>
