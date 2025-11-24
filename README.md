@@ -1,10 +1,11 @@
 <div align='center'>
-<img src='./Artboard 1.png'>
 <h1>Mohammad Alizad</h1>
-<h2>I'm developing the front end and a little back end of a website now and Other jobs in programming.</h2>
+<h2>I'm a backend developer focused on Python, Django, and Django REST Framework.</h2>
 </div>
-<h3>My Expertise: </h3>
-<img src='https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,javascript,alpinejs,vue,python,django&perline=5'>
+<h3>My Expertise as a Front End Developer: </h3>
+<img src='https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,javascript,alpinejs,vue&perline=4'>
+<h3>My Expertise as a Back End Developer: </h3>
+<img src='https://skillicons.dev/icons?i=python,django,postgres&perline=4'>
 <h3>My communication:</h3>
 <a href='https://www.instagram.com/im_mohammadd_?igsh=MTgzZ3RjazJoaHl2bQ=='>
   <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'>
